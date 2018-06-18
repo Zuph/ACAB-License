@@ -7,6 +7,6 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-You are not a cop, or cop adjacent. This includes all members, active or retired, of any civilian or military police force, any employee of a security contractor, members of the United States Department of Defense or other former military, members of any Immigrations enforcement organizaitons, and any persons or firms engaging in any business with any of the listed categories.
+You are not a cop, or cop adjacent. This includes all members, active or retired, of any civilian or military police force, any employee of a security contractor, members of the United States Department of Defense or other military (active or retired), members of any Immigrations enforcement organizations, and any persons or firms engaging in any business with any of the listed categories.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
